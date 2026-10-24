@@ -1,0 +1,5 @@
+﻿Analysis,Burden,Entry,Persistence,Peak reached,Fit checks
+(1a) High-state prior centred on 389 cases,0.998 (10),0.995 (10),0.996 (10),0.996 (10),5 of 5; ratio 1.03; SD 1.00
+"(1b) Prior centred on 389, tight Gamma(10, 3) on τ23",0.999 (10),0.996 (9),0.997 (10),0.996 (10),5 of 5; ratio 1.02; SD 1.00
+(2a) Without the population term (offset only),0.966 (6),0.993 (9),0.986 (10),0.870 (8),–
+(2b) Without the population offset (population term kept),0.99 (zone ranking),,,,|Spearman| with population 0.28

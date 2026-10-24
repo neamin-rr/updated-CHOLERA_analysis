@@ -1,0 +1,10 @@
+﻿Measure,Burden,Entry,Persistence,Peak reached
+"Spearman, pooled refits vs main model",0.996,0.995,0.998,0.997
+"Spearman, single refits vs main: median (minimum)",0.984 (0.975),0.994 (0.991),0.994 (0.988),0.990 (0.985)
+Ten highest-ranked zones shared (of 10),10,9,10,8
+Measure,Refits: mean (range),Main model,,
+Zones in the same burden group (top quarter or not),97.2%,–,,
+Baseline self-transition,0.974 (0.973–0.974),0.974,,
+High-intensity self-transition,0.688 (0.686–0.690),0.687,,
+National high-state burden,0.0601,0.0602,,
+R̂ per refit: maximum,1.145,–,,

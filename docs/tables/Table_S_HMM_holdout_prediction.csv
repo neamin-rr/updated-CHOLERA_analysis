@@ -1,0 +1,7 @@
+﻿Method,MAE,RMSE,CRPS,CRPS of method vs HMM (% higher)
+HMM,24.10,105.82,23.66,–
+Always zero,22.98,102.68,22.98,−2.9
+National rate × expected count,29.25,100.79,29.25,19.1
+Zone average,27.25,98.52,27.25,13.2
+"Zone average, same calendar phase",26.58,100.58,26.58,11.0
+Last observed month,32.76,108.59,32.76,27.8

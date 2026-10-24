@@ -1,0 +1,9 @@
+﻿Parameter,n,"R̂ < 1.1, n (%)","R̂ < 1.05, n",Maximum R̂,Smallest ESS
+"Zone high-intensity mean, μz,3",92,92 (100),92,1.002,"6,147"
+"Zone moderate mean, μz,2",92,92 (100),91,1.068,664
+"Zone baseline mean, μz,1",92,92 (100),92,1.002,"3,058"
+"Zone dispersion, rz",92,92 (100),92,1.004,"5,985"
+"Self-transition, baseline state",92,92 (100),92,1.039,"6,704"
+"Self-transition, moderate state",92,92 (100),92,1.001,"2,000"
+"Self-transition, high-intensity state",92,92 (100),92,1.001,"5,691"
+"National high-state level, η23",1,1 (100),1,1.000,"7,286"
