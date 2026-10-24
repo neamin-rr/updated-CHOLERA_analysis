@@ -1,0 +1,5 @@
+﻿State,Mean monthly count (95% CrI),Self-transition,"Expected stay, months (95% CrI)"
+Baseline,0.012 (0.011–0.014),0.974,38.1 (33.6–43.1)
+Moderate,28.5 (24.8–33.7),0.643,2.8 (2.6–3.0)
+High-intensity,245.2 (210.4–284.5),0.687,3.2 (3.0–3.5)
+Population coefficient βpop,−1.031 (−1.219 to −0.844),,

@@ -1,0 +1,38 @@
+# Data are not redistributed - see README
+data/raw/*
+!data/raw/README.md
+data/derived/*
+!data/derived/.gitkeep
+
+# Large model objects (hundreds of MB)
+outputs/models/*
+!outputs/models/.gitkeep
+*.rds
+
+# the bundled published tables and figures ARE tracked
+!inst/supplement_tables/*
+!inst/figures/*
+
+# Generated outputs - keep the folders, not the contents
+outputs/figures/*
+outputs/tables/*
+outputs/supplement/*
+!outputs/figures/.gitkeep
+!outputs/tables/.gitkeep
+!outputs/supplement/.gitkeep
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+
+# JAGS scratch
+*.jags
+*.bug
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,16 @@
+﻿Measure,Two states,Three states (retained),Four states
+Maximum R-hat,1.043,1.004,1.002
+One-step-ahead WAIC,"15,821.5","15,688.5","15,608.6"
+Difference from three states (SE),+133.1 (39.4),0 (reference),−79.9 (20.9)
+Hold-out 2024: CRPS,18.88,18.06,18.67
+Hold-out 2024: 95% interval coverage (%),95.5,96.2,95.7
+Predictive statistics inside the 95% interval,5 of 5,5 of 5,5 of 5
+Randomized quantile residual SD,1.02,1.01,1.00
+In-sample MAE,9.06,6.09,4.32
+In-sample RMSE,56.4,40.3,30.8
+State means (cases per month),0.012 / 106,0.012 / 26.5 / 231,0.012 / 14.0 / 83.7 / 297
+Self-transition probabilities,0.974 / 0.751,0.974 / 0.643 / 0.687,0.974 / 0.512 / 0.311 / 0.353
+Expected stay (months),38.0 / 4.0,37.9 / 2.8 / 3.2,38.0 / 2.1 / 1.5 / 1.5
+Share of zone-months per state,0.898 / 0.102,0.891 / 0.050 / 0.060,0.891 / 0.038 / 0.034 / 0.037
+Smallest state (% of zone-months),10.2,5.0,3.4
+Zones with fewer than 3 months in the top state,20,32,42

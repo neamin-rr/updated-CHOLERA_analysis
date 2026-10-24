@@ -1,0 +1,15 @@
+﻿Measure,Value
+Communities,6
+Modularity Q,0.641
+"Null-network Q, mean (SD)",0.517 (0.012)
+Z,10.0
+p,0.001
+"ARI profiles, 500 draws",0.91 (0.82-0.96)
+"ARI communities, 500 draws",0.72 (0.54-0.95)
+"ARI classes, 500 draws",0.57
+"ARI communities, +/-20% edge weights",0.77 (0.57-0.98)
+"ARI profiles, 20 joint refits",0.99 (0.96-1.00)
+"ARI communities, 20 joint refits",0.80 (0.59-1.00)
+"ARI classes, 20 joint refits",0.73
+Zones keeping their profile in >= 70% of draws,84 of 92
+"Zones keeping profile, community and class in >= 70% of draws",31 of 92

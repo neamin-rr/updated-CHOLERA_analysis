@@ -1,0 +1,9 @@
+﻿Indicator / source,Median / Spearman,Minimum,Maximum,Between/within-zone SD ratio,Spearman with population
+Burden,0.052,0.000,0.283,3.87,0.31
+Entry,0.028,0.002,0.068,1.21,0.28
+Persistence of active months,0.751,<0.001,0.938,7.80,0.18
+Peak reached (cases per month),166,0.008,"2,520",4.03,0.13
+"Previous month, same zone (active months)",0.13,,,,
+"Neighbouring zones, same month",0.46,,,,
+Zone population (zone mean residual),−0.16,,,,
+Season (mean residual by phase of the year),−0.14 to −0.08,,,,

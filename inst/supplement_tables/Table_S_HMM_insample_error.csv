@@ -1,0 +1,8 @@
+﻿Method / state,n,Observed mean,Predicted mean,MAE,RMSE,RMSE reduction (%) / bias
+HMM,,,,6.05,40.99,
+National rate × expected count,,,,18.54,73.16,44.0
+Zone average,,,,17.71,71.56,42.7
+Baseline,"9,882",0.01,0.10,0.10,1.00,0.09
+Moderate,517,12.79,35.32,23.17,34.06,22.53
+High-intensity,641,165.75,151.62,84.62,165.98,−14.13
+All zone-months,"11,040",10.23,10.55,6.08,40.68,0.32

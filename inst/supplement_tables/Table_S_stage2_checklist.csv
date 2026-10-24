@@ -1,0 +1,22 @@
+﻿Check,Result,Detail
+Chains agree (R̂ < 1.1 for the baseline self-transition in ≥ 90% of zones),Pass,100% of zones; maximum R̂ 1.04
+States ordered (baseline < moderate < high) in every draw,Pass,100% of draws
+High state neither absorbing nor fleeting (expected stay 1.5–8 months),Pass,3.2 months
+Posterior predictive check: ≥ 4 of 5 statistics inside the 95% interval,Pass,5 of 5 inside
+Predictive p-values between 0.05 and 0.95,Pass,Zeros 0.15; total 0.65; high-count share 0.66; maximum 0.33; mean positive count 0.57
+High-state level: model mean within 10% of the observed mean in high-state months,Pass,Ratio 1.04
+Spread: randomized quantile residual SD between 0.8 and 1.25,Pass,1.01
+Population offset matters little for the ranking (Spearman with vs without ≥ 0.8),Pass,0.99
+States do not copy zone population (|Spearman| < 0.5),Pass,0.28
+No indicator follows zone population (|Spearman| < 0.5 for all four),Pass,Burden 0.31; entry 0.28; persistence 0.18; peak 0.13
+Zones keep their burden group across draws (≥ 70% of zones stable in ≥ 70% of draws),Pass,97% of zones
+Indicators differ between zones more than their uncertainty (ratio of between-zone SD to mean within-zone SD > 1),Pass,Burden 3.87; entry 1.21; persistence 7.80; peak 4.03
+Peak reached follows the observed highest count (Spearman ≥ 0.7),Pass,0.94
+Indicators distinct (highest |Pearson| < 0.85; condition number < 30),Pass,0.75; 3.1
+Zone rankings stable between chain halves (Spearman ≥ 0.9),Pass,1.00 for all four
+Few zones lean on the prior: < 25% of zones with < 3 expected active months,Pass,22% of zones
+Few zones lean on the prior: < 25% of zones with < 3 expected high-intensity months,Not met,34% of zones; persistence is therefore based on active months
+"Burden ranking agrees with threshold-based ranking (Spearman ≥ 0.8 at the 90th, 95th and 97.5th percentiles)",Not met,0.61; 0.41; 0.22
+Hold-out 2024: 95% prediction interval covers 90–99% of hidden zone-months,Pass,90.9%
+Hold-out 2024: observed total inside the 95% prediction interval,Pass,"Observed 25,374"
+Hold-out 2024: CRPS lower than simple baselines using zone data,Pass,23.66 vs 26.58 (best); not lower than predicting zero (22.98)
